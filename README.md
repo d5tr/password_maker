@@ -24,4 +24,8 @@ $ ./pass_maker.sh < Password length > < many password >
 
 # Follow me 
 
-[instagram](https://instagram.com/d_5tr)
+* [Instagram](https://instagram.com/d_5tr)
+
+
+
+* [Telegram](https://t.me/d5tr_Cyber)
